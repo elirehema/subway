@@ -44,7 +44,7 @@ jobs:
       - name: Set output
         run: echo "::set-output name={name}::{value}"
       - name: Deploy to gihub pages 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.0
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
           token: ${{ secrets.GITHUBTOKEN }}
           branch: gh-pages # The branch the action should deploy to.
