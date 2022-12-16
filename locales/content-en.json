@@ -5,7 +5,8 @@
       "applicationsettings": "Ospic Settings"
     },
     "button": {
-      "btncontactus": "Contact Us"
+      "btncontactus": "Contact Us",
+      "btnaddservicename":"Add Service Name"
     },
     "menu": {
       "home": "Home"
@@ -27,8 +28,8 @@
     "tooltip": {
       "tooltiphello": "Hello there"
     },
-    "titles": {
-      "settings": "Settings"
+    "title": {
+      "groupservices": "Group Services"
     },
     "tab": {
       "appointments": "Appointments"
