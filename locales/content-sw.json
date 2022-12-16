@@ -1,0 +1,32 @@
+{
+  "label": {
+    "heading": {
+      "applicationname": "Ospic HMIS",
+      "applicationsettings":"Ospic Settings"
+    },
+    "button": {
+      "btncontactus": "Contact Us"
+      
+    },
+    "menu":{
+      "dashboard":"Dashibodi"
+
+    },
+    "message": {
+      "nodataavailable":"No Data available ..."
+   },
+    "contacts": {
+      "community": "Community"
+    },
+    "dialogs":{
+      "deleteconfirmdialog":"Are you sure you want to delete this item ?"
+    },
+    "tooltip": {
+      "tooltiphello": "Hello there"
+    },
+    "titles":{
+      "settings":"Mipangilio"
+     
+    }
+  }
+}
