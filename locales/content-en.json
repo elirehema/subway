@@ -10,7 +10,9 @@
       "btnaddbankaccount":"Add bank account",
       "addgroupleader":"Add group leader",
       "btncancel":"Cancel",
-      "btnsave":"Save"
+      "btnsave":"Save",
+      "btnyessure":"Yes I'm Sure",
+      "btnnotsure":"No I'm not"
     },
     "menu": {
       "home": "Home"
