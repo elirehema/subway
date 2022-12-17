@@ -6,7 +6,11 @@
     },
     "button": {
       "btncontactus": "Contact Us",
-      "btnaddservicename":"Add Service Name"
+      "btnaddservicename":"Add Service Name",
+      "btnaddbankaccount":"Add bank account",
+      "addgroupleader":"Add group leader",
+      "btncancel":"Cancel",
+      "btnsave":"Save"
     },
     "menu": {
       "home": "Home"
