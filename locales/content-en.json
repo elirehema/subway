@@ -12,7 +12,8 @@
       "btncancel":"Cancel",
       "btnsave":"Save",
       "btnyessure":"Yes I'm Sure",
-      "btnnotsure":"No I'm not"
+      "btnnotsure":"No I'm not",
+      "adduser":"Add user"
     },
     "menu": {
       "home": "Home"
