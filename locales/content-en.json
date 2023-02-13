@@ -8,7 +8,7 @@
       "btncontactus": "Contact Us",
       "btnaddservicename":"Add Service Name",
       "btnaddbankaccount":"Add bank account",
-      "addgroupleader":"Add group leader",
+      "addgroupleader":"Add organization leader",
       "btncancel":"Cancel",
       "btnsave":"Save",
       "btnyessure":"Yes I'm Sure",
@@ -36,7 +36,7 @@
       "tooltiphello": "Hello there"
     },
     "title": {
-      "groupservices": "Group Services"
+      "groupservices": "organization Services"
     },
     "tab": {
       "appointments": "Appointments"
